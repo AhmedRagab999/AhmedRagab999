@@ -15,7 +15,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games 
-- ✉️ &nbsp;You can shoot me an email at eslamkhalil920@gmail.com! I'll try to respond as soon as I can
 
 
 ## 🔧 Technologies & Tools
@@ -39,9 +38,6 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/islam-khalil-919278b2/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-
-- Sharing updates on <a href="https://www.linkedin.com/in/islam-khalil-919278b2/">LinkedIn</a> 😇
 
 
 ## Watch my contributions get eaten by a snake 🐍
