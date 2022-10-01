@@ -1,10 +1,7 @@
 
-### Hi there, I'm Eslam  👋 
+### Hi there, I'm Ahmed  👋 
 
-[![Linkedin:Eslam](https://img.shields.io/badge/-Eslam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/islam-khalil-919278b2/)](https://www.linkedin.com/in/islam-khalil-919278b2/)
-[![Facebook:Eslam](https://img.shields.io/badge/-Eslam-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/eslam.khalil.505/)](https://www.facebook.com/eslam.khalil.505/)
-![GitHub followers](https://img.shields.io/github/followers/Eslamkhalil?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Eslamkhalil&color=brightgreen">  
+
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
 
@@ -43,8 +40,7 @@
 
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/islam-khalil-919278b2/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Practising on <a href="https://codeforces.com/profile/eslamkhalil0">Codeforces</a> 🙃
-- - Practising on <a href="https://leetcode.com/eslamkhalil920/">LeetcoCode</a> 🙃
+
 - Sharing updates on <a href="https://www.linkedin.com/in/islam-khalil-919278b2/">LinkedIn</a> 😇
 
 
@@ -53,7 +49,6 @@
 
 
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Eslamkhalil&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Eslamkhalil" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslamkhalil&layout=compact&theme=radical&hide_border=true" alt="Eslamkhalil" /></p>
+
 
 
